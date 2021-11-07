@@ -11,7 +11,7 @@ provider "aws" {
 
 resource "null_resource" "example" {
   # Use UUID to force this null_resource to be recreated on every
-  # call to 'terraform apply'
+  # call to 'swarm_cluster apply'
   triggers = {
     uuid = uuid()
   }

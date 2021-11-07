@@ -16,7 +16,7 @@ terraform {
     # manually, uncomment and fill in the config below.
 
     # bucket         = "<YOUR S3 BUCKET>"
-    # key            = "<SOME PATH>/terraform.tfstate"
+    # key            = "<SOME PATH>/swarm_cluster.tfstate"
     # region         = "us-east-2"
     # dynamodb_table = "<YOUR DYNAMODB TABLE>"
     # encrypt        = true
