@@ -1,3 +1,11 @@
+# Learning Terraform
+
+This repository is a clone of [Terraform: Up & Running Code](https://github.com/brikis98/terraform-up-and-running-code). The doc below is 
+the one from this repository. I have added my own folders:
+
+* [my_code](my_code): code based in the samples from the fprked repo
+* [terraform](terraform): code created once I have learnt
+
 # Terraform: Up & Running Code
 
 This repo contains the code samples for the book *[Terraform: Up and Running](http://www.terraformupandrunning.com)*,
